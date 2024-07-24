@@ -4,4 +4,4 @@ Steps:
 3. Match both choices                                                       Y
 4. Define a winner or tie                                                   Y
 5. Increment the winner's score                                             Y
-6. Play other rounds
+6. Play other rounds                                                        Y
