@@ -1,0 +1,7 @@
+Steps:
+1. get computer choosing between 'rock' 'paper' or 'scissors'               Y
+2. get player choosing between 'rock' 'paper' or 'scissors'                 Y
+3. Match both choices                                                       Y
+4. Define a winner or tie                                                   Y
+5. Increment the winner's score                                             Y
+6. Play other rounds
